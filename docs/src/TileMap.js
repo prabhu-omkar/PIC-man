@@ -243,3 +243,4 @@ export default class TileMap {
   }
 }
         
+// Dot and power pellet rendering logic
