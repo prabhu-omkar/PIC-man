@@ -301,3 +301,4 @@ export default class Enemy {
     this.image = this.normalGhost;
   }
 }      
+// Dynamic active ghost switching logic
