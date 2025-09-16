@@ -491,3 +491,4 @@ export default class Pacman {
   }
 }
         
+// Breadth-First Search (BFS) pathfinding
