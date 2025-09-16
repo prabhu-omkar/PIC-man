@@ -494,3 +494,5 @@ export default class Pacman {
 // Breadth-First Search (BFS) pathfinding
 
 // Torus wrap-around coordinate math
+
+// Portal transition alignment fix
