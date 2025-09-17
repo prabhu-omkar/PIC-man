@@ -498,3 +498,5 @@ export default class Pacman {
 // Portal transition alignment fix
 
 // Danger Mapping evasion algorithm (8-tile lookahead)
+
+// Corner trap avoidance logic
