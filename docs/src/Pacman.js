@@ -496,3 +496,5 @@ export default class Pacman {
 // Torus wrap-around coordinate math
 
 // Portal transition alignment fix
+
+// Danger Mapping evasion algorithm (8-tile lookahead)
