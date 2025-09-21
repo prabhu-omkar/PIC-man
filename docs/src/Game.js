@@ -270,3 +270,4 @@ document.addEventListener("keydown", (event) => {
   }
 });
      
+// Win/lose state evaluation
