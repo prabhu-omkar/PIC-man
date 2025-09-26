@@ -500,3 +500,5 @@ export default class Pacman {
 // Danger Mapping evasion algorithm (8-tile lookahead)
 
 // Corner trap avoidance logic
+
+// Balanced speed configuration
