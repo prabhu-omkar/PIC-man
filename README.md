@@ -55,3 +55,4 @@ python -m http.server 8080
 ```
 Then visit `http://localhost:8080`.
         
+<!-- Live GitHub Pages demo verified -->
