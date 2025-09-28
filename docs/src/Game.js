@@ -270,6 +270,3 @@ document.addEventListener("keydown", (event) => {
   }
 });
      
-// Win/lose state evaluation
-
-// Pause/resume modal controller
