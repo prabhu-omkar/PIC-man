@@ -2,7 +2,7 @@
 
 *What if the prey bites back?* Welcome to **Pic-Man** (**P**inky, **I**nky, and **C**lyde **Man**!). The tables have turned: you control the ghosts, and an AI-driven Pac-Man is out to eat everything—including you!
 
-**[🎮 Play the Game Live Here!](https://omkar-prabhu-github.github.io/PIC-man/)**
+**[🎮 Play the Game Live Here!](prabhu-omkar.github.io/PIC-man/)**
 
 ---
 
